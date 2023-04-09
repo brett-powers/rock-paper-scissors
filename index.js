@@ -9,3 +9,11 @@ function getComputerChoice() {
 }
 
 
+// Create a playerSelection variable that takes a string. should be case insensitive
+const playerSelection = 'rock';
+
+
+// Create a computer selection variable
+const computerSeletion = getComputerChoice();
+
+
